@@ -1,2 +1,2 @@
 # codeGuesser
-school work
+school project
