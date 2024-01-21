@@ -1,2 +1,2 @@
-# codeGuesser
+# code guesser game
 school project
